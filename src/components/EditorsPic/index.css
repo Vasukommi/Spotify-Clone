@@ -1,0 +1,14 @@
+.editors-pick-card {
+  margin: 20px;
+}
+
+.editors-pick-image {
+  height: 166px;
+  width: 166px;
+  border-radius: 8px;
+}
+
+.item-link {
+  text-decoration: none;
+  color: #ffffff;
+}
